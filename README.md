@@ -4,3 +4,7 @@ Named after the street I live on, this mod changes the [Coastal cottage](https:/
 ![Screenshot](/documentation/pembrook_000.png)
 
 ![Screenshot](/documentation/pembrook_001.png)
+
+![Screenshot](/documentation/pembrook_003.png)
+
+![Screenshot](/documentation/pembrook_004.png)
